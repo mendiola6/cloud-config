@@ -1,4 +1,5 @@
 configuration:  
+  projectNam: test.yml
 server:
   port: 8000
 message:
