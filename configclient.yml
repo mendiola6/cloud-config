@@ -1,5 +1,5 @@
 configuration:  
-  projectName: configclient.yml
+  projectName: test
 server:
   port: 8000
 message:
