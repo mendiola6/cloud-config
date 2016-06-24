@@ -1,6 +1,4 @@
 configuration:  
   projectName: testing.yml
-server:
-  port: 8000
 message:
   greeting: Hello!
