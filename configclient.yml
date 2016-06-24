@@ -1,4 +1,4 @@
 configuration:  
   projectName: testing.yml
 message:
-  greeting: Hello!
+  greeting: Hello from the configuration!
