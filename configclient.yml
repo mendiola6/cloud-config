@@ -4,4 +4,4 @@ message:
   greeting: Hello from the configuration!
 security:
   basic:
-    enabled: false
+    enabled: true
