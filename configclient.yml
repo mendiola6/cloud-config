@@ -1,4 +1,5 @@
-projectName: testing.yml		
+configuration
+  projectName: testing.yml		
 message:		
   greeting: Hello from the configuration!		
 security:		
