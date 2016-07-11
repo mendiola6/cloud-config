@@ -1,0 +1,6 @@
+projectName: testing.yml		
+message:		
+  greeting: Hello from the configuration!		
+security:		
+  basic:		
+    enabled: true
